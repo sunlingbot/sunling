@@ -1,4 +1,4 @@
-**Hi there 👋, I'm sunling, not a bot.**
+**Hi there 👋, I'm Nakano Hane, not a bot.**
 
 I am a student of Xidian University, majoring in EE.
 
