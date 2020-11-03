@@ -9,8 +9,6 @@
 - :clown_face: I am a **rookie contributor** on GitHub
 - 📧 Contact me by email: sunling.me@gmail.com
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sunlingbot&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
 
